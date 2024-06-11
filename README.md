@@ -1,7 +1,7 @@
 # News Magazine
 
 News Magazine is a React-based web application that allows users to view the latest news based on different categories. Users can also search for news articles using a search bar.
-![news magzine screen shot](images/Capture2.png)
+![news magzine screen shot](news-mag/images/Capture2.PNG)
 ## Features
 
 - Browse top headlines by categories: Technology, Sports, Business, Health, Entertainment
