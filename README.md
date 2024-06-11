@@ -28,3 +28,8 @@ You need to have Node.js and npm installed on your machine.
 
 ```sh
 git clone https://github.com/your-username/news-magazine.git
+
+![Capture2](https://github.com/Shobaiikhan44/News_Magazine/assets/150572874/8c096aef-1e5f-4cfc-95af-3c5d40ab848f)
+
+![Capture1](https://github.com/Shobaiikhan44/News_Magazine/assets/150572874/c8f7b9d9-18b7-494d-bed1-46fdba7115c0)
+
